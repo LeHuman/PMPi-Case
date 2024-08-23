@@ -3,14 +3,15 @@
 <!-- FONT: IBM Plex -->
 <!-- KEYWORDS: SLA, 3D Print, Hardware -->
 <!-- TECHNOLOGY: Solidworks -->
-<!-- STATUS: Work In Progress -->
 
+<!-- LOGO -->
 ![PMPi-Case-Logo](<Images/PMPi Case.png>)
 
 [About](#about) - [Usage](#usage) - [Gallery](#gallery) - [License](#license)
 
 ## Status
 
+<!-- STATUS -->
 **`Work In progress`**
 > *Still working with prototype prints - July 2024*
 
@@ -50,6 +51,7 @@ Physical revisions of the PMPi-Case
 
 ### R3
 
+<!-- HIGHLIGHT -->
 ![PMPi-Case-R3](Images/Revisions/R3.png) \
 *Revision 3 of the PMPi Case* \
 *Added revision mark. Printed in black. Manual sanding for unaccounted SMD caps.*
